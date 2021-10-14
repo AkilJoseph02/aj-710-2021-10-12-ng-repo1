@@ -19,7 +19,8 @@ import { I2021Component } from './i-2021/i-2021.component';
   declarations: [
     AppComponent,
     TopBarComponent,
-    ProductListComponent
+    ProductListComponent,
+    I2021Component
   ],
   bootstrap: [
     AppComponent
